@@ -1,14 +1,17 @@
 # Quotation App Laravel
 
-Quotation App developed in Laravel. 
+Quotation App deveoped in Laravel. 
 
-1. This projects is developed in end to end Laravel. You can add Author and their Quotation.
+1. This project is developed in end to end Laravel. You can add Author and their Quotation.
 2. Single Author can have many quotations.
 3. Laravel's proper validation has been used
 4. Name filter has been set. If clicked in pubished Author's name, shows all the quotations written by that author
 5. Delete route has been set so that can be deleted easily, shows proper message.
 6. Laravel's pagination is used to organize 6 data per page.
 7. Database is created with migration method i.e. php artisan make:model Author -m and php artisan make:model Quotation -m
+8. Proper Mail Configuration coding are done to receive mails. (User will receive mails in their described email).
+9. Email contain callback mail link.
+10. Proper security coding is maintained with the help of middleware.
 
 ## Installation
 1. Clone or Download the repository and keep it in server or local server(like XAMPP).
@@ -23,8 +26,23 @@ DB_USERNAME=root           //Username
 DB_PASSWORD=123456         //Password
 
 ```
-4. Extract the vendor.zip compressed folder, keep it in root directory of the folder
-5. Run this project: Eg. localhost/Quotes-App-Laravel
+
+4. For Mails you can add your server details below. 
+For Testing purpose Goto to [Mailtrap](https://mailtrap.io/) which provides free mails, good for testing. Signup and its dashboard you will find username and password. 
+For configuring in our Laravel Project open .env file and configure like below:
+
+```
+
+MAIL_DRIVER=smtp		   //Mail Configuration are done 
+MAIL_HOST=mailtrap.io      //write this
+MAIL_PORT=2525			   // port will be 2525 for default
+MAIL_USERNAME=7888.........36  	//your unique username
+MAIL_PASSWORD=e5373f.....843  	//your unique password
+MAIL_ENCRYPTION=null
+
+```
+5. Extract the vendor.zip compressed folder, keep it in root directory of the folder
+6. Run this project: Eg. localhost/Quotes-App-Laravel
 
   
 ## Preview
