@@ -30,33 +30,50 @@ DB_PASSWORD=123456         //Password
 ## Preview
 
 
-![Screenshot of Quotes App ](https://cloud.githubusercontent.com/assets/15896579/25284799/d1b5c9d8-26d5-11e7-9f08-d4857755916e.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Quotes App ](https://cloud.githubusercontent.com/assets/15896579/25339123/463973d6-291f-11e7-80d6-0b4c6fc4270f.png?raw=true "Screenshot of Quotes App")
 <br/><br/><br/>
 
-![Screenshot of Quotes App ](https://cloud.githubusercontent.com/assets/15896579/25284804/d3781f50-26d5-11e7-9df6-132a2a665880.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Quotes App ](https://cloud.githubusercontent.com/assets/15896579/25339126/47e9942c-291f-11e7-94d7-5debcdbb2eb5.png?raw=true "Screenshot of Quotes App")
 <br/><br/><br/>
 
-![Screenshot of Quotes App ](https://cloud.githubusercontent.com/assets/15896579/25284809/d640e866-26d5-11e7-9b9b-4e0b251e17f7.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Quotes App ](https://cloud.githubusercontent.com/assets/15896579/25339134/4a171544-291f-11e7-94b3-6cee74cb63d8.png?raw=true "Screenshot of Quotes App")
 <br/><br/><br/>
 
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25284811/d870b12a-26d5-11e7-80d4-9f7c5140398f.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339139/4d43d680-291f-11e7-834a-211865054c36.png?raw=true "Screenshot of Quotes App")
 <br/><br/><br/>
 
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25284814/dab5ce52-26d5-11e7-9965-fd0893102720.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339146/53b969b2-291f-11e7-86c5-62db3f894c38.png?raw=true "Screenshot of Quotes App")
 <br/><br/><br/>
 
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25284835/edff1c52-26d5-11e7-807a-070698356c7f.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339155/5a91b67c-291f-11e7-8a0a-78cd4011d705.png?raw=true "Screenshot of Quotes App")
 <br/><br/><br/>
 
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25284845/f1d9284a-26d5-11e7-839e-d9eabf604316.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339165/61283790-291f-11e7-815f-af3240b24aa8.png?raw=true "Screenshot of Quotes App")
 <br/><br/><br/>
 
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25284851/f60fa38a-26d5-11e7-8ea3-673c63f13bfd.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339174/65f40b0a-291f-11e7-8f4c-829e09d071d3.png?raw=true "Screenshot of Quotes App")
 <br/><br/><br/>
 
-![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25284865/ffad9884-26d5-11e7-8fa9-a6b02e766683.png?raw=true "Screenshot of Quotes App")
+![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339183/6b070f16-291f-11e7-95f8-c5fb55f2f28a.png?raw=true "Screenshot of Quotes App")
 <br/><br/><br/>
 
+![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339191/6f7fc95c-291f-11e7-9c78-0f2f92030927.png?raw=true "Screenshot of Quotes App")
+<br/><br/><br/>
+
+![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339201/7514392a-291f-11e7-8277-361ae48c995e.png?raw=true "Screenshot of Quotes App")
+<br/><br/><br/>
+
+![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339208/7af99f1a-291f-11e7-80ab-f1a32a8be88d.png?raw=true "Screenshot of Quotes App")
+<br/><br/><br/>
+
+![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339217/7fd2f0e0-291f-11e7-9c59-83b886c4aa4c.png?raw=true "Screenshot of Quotes App")
+<br/><br/><br/>
+
+![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339226/84b946ea-291f-11e7-9691-2242c841d91b.png?raw=true "Screenshot of Quotes App")
+<br/><br/><br/>
+
+![Screenshot of Quotes App](https://cloud.githubusercontent.com/assets/15896579/25339229/88512944-291f-11e7-92e9-1c0cf21f35ff.png?raw=true "Screenshot of Quotes App")
+<br/><br/><br/>
 
 <br/><br/><br/>
 
