@@ -28,7 +28,7 @@ DB_PASSWORD=123456         //Password
 ```
 
 4. For Mails you can add your server details below. 
-For Testing purpose Goto to [Mailtrap](https://mailtrap.io/) which provides free mails, good for testing. Signup and its dashboard you will find username and password. 
+For Testing purpose Goto to [Mailtrap](https://mailtrap.io/) which provides free mails, good for testing. Signup and in its dashboard you will find username and password. 
 For configuring in our Laravel Project open .env file and configure like below:
 
 ```
