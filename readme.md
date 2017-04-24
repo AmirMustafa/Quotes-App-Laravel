@@ -1,6 +1,6 @@
-# Quotation App Laravel
+# Quotes App Laravel
 
-Quotation App deveoped in Laravel. 
+Quotation App developed in Laravel. 
 
 1. This project is developed in end to end Laravel. You can add Author and their Quotation.
 2. Single Author can have many quotations.
